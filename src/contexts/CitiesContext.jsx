@@ -1,5 +1,5 @@
 import { createContext, useReducer } from "react";
-import { useState, useEffect, useContext } from "react";
+import { useEffect, useContext } from "react";
 
 const CitiesContext = createContext();
 
