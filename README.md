@@ -18,12 +18,25 @@
 - **React Datepicker**: For easy date selection and filtering.
 - **JSON Server**: Serves as a mock backend for storing city data.
 
-## Getting Started
+## open and use
 
-To run this project locally, follow these steps:
+click to see [Live Demo](https://worldwise-gdz.netlify.app/)
 
-### Prerequisites
+If you downloaded and want to run on pc:
 
-Make sure you have **Node.js** and **npm** installed.
+```bash
+npm install
+```
 
-### Installation
+```bash
+npm run server
+```
+
+```bash
+npm run dev
+```
+
+## Folder Structure
+
+- /src: Contains main application code, including components and pages.
+- /data: Holds the cities.json file, which JSON Server serves as a mock backend.
